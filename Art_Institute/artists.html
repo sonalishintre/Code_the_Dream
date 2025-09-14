@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Art Explorer | Artists</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <!-- Navigation -->
+  <nav>
+  <div class="nav-buttons">
+    <a href="index.html" class="nav-btn">🏠 Home</a>
+    <a href="artworks.html" class="nav-btn">🖼️ Artworks</a>
+  </div>
+</nav>
+
+  <!-- Page Content -->
+  <main>
+    <h2>Artists</h2>
+    <div id="artists" class="artist-grid">
+    </div>
+  </main>
+
+  <div class="pagination">
+    <div id="artists"></div>
+    <button id="prevBtn" disabled>⬅️ Previous</button>
+    <span id="pageInfo">Page 1</span>
+    <button id="nextBtn">Next ➡️</button>
+  </div>
+
+
+  <footer>
+    <p>Powered by the Art Institute of Chicago API</p>
+  </footer>
+
+  <script src="artists.js"></script>
+</body>
+</html>
