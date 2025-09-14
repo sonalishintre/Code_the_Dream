@@ -2,6 +2,9 @@
 
 Art Explorer is a simple front-end web project that uses the [Art Institute of Chicago API](https://api.artic.edu/docs/) to explore artists and their artworks.  
 
+## Live Demo
+Click here to view the project- https://sonalishintre.github.io/Code_the_Dream/
+
 
 ##  Features
 - **Home Page** – Introduction + navigation.  
@@ -35,3 +38,4 @@ Art Explorer is a simple front-end web project that uses the [Art Institute of C
 2. Click Artists → Browse paginated artist list.
 3. Click View on an artist card → Go to Artist Detail Page.
 4. Click Artworks → Browse artworks in a responsive grid.
+
