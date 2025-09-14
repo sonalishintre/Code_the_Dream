@@ -23,7 +23,7 @@ Click here to view the project- https://sonalishintre.github.io/Code_the_Dream/
 
 ---
 
-## 📥 Installation / How to Run
+## Installation / How to Run
 1. Clone this repository:
    ```bash
    git clone https://github.com/sonalishintre/Code_the_Dream.git
@@ -38,4 +38,5 @@ Click here to view the project- https://sonalishintre.github.io/Code_the_Dream/
 2. Click Artists → Browse paginated artist list.
 3. Click View on an artist card → Go to Artist Detail Page.
 4. Click Artworks → Browse artworks in a responsive grid.
+
 
